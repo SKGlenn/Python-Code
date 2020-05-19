@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-__author__ = "Eric Robinson"
-__email__ = "erobinson@columbiabasin.edu"
-__date_ = "Spring 2020"
-__version__ = "0.0.1"
+
 
 # LIBRARIES
 from datetime import date
